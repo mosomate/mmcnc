@@ -1,2 +1,2 @@
 # mmcnc
-Lightweight CoreXY CNC machine using item aluminium profiles
+Lightweight, desktop CNC machine using ITEM aluminium profiles.
